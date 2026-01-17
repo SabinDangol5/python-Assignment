@@ -1,4 +1,4 @@
-# Write a program that takes a number and prints whether it is positive, negative, or zero .
+# Write a program that takes a number and prints whether it is positive, negative, or zero.
 
 # Take input from the user
 num = float(input("Enter a number: "))
